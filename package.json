@@ -1,0 +1,16 @@
+{
+  "name": "video-converter-api",
+  "version": "1.0.0",
+  "description": "API para convertir videos a MP3/MP4",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
